@@ -38,6 +38,7 @@ class AppBarWidget extends PreferredSize {
                       ),
                       /*
                   Text('Olá, Flutter', style: AppTextStyles.title),
+                  É preciso entender como é funcionar apos de atualizar
                   Text('Dev Flutter + Dar', style: AppTextStyles.titleBold,
                   Fica ruim Então text.rich sera util
                    */
